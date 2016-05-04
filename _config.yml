@@ -1,7 +1,7 @@
 name: shanesanders
 favicon: null
-layout_spectrum: 0.47691741632297635
-typography_spectrum: 0.8199415078852326
+layout_spectrum: 0.49739
+typography_spectrum: 0.49363
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4876756046433002
+    - '#d05507'
+    - '#731803'
+    - '#ffffff'
+    - '#de8f07'
+    - '#fee814'
+  brandStrength: 1
   lightness: 0.9318784265778959
   saturation: 0.7413776889443398
-  rhythmicContrast: 0.04073781007900834
+  rhythmicContrast: 0.5
 purpose: []
