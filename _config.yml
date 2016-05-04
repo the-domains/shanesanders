@@ -2,12 +2,13 @@ name: shanesanders
 favicon: null
 layout_spectrum: 0.49739
 typography_spectrum: 0.49363
+title: Artwork and Experiments by Shane Sanders
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76746039-1
   facebook: null
   twitter: null
 opengraph:
