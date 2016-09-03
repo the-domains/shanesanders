@@ -1,20 +1,4 @@
-name: shanesanders
-favicon: null
-layout_spectrum: 0.75267
 typography_spectrum: 0.46809
-title: Experiments
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76746039-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d05507'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9318784265778959
   saturation: 0.7413776889443398
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75267
+analytics:
+  google: UA-76746039-1
+  facebook: null
+  twitter: null
+name: shanesanders
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 3D Models
+    id: 6ab06bff-4d37-43c7-92ae-7f3e102d6dcb
+    type: content
+favicon: null
+title: Experiments
 purpose: []
